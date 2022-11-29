@@ -49,7 +49,7 @@ Password: test12345
 ###### Menu - Speisekarte
 <img src="https://user-images.githubusercontent.com/118169200/204535152-5f7705c6-5ab5-4e24-8cb2-178f9a0b4c31.jpg" alt="alt text" width="30%" height="30%">
 
-###### List of Stores
+###### List of Stores - Standorte
 <img src="https://user-images.githubusercontent.com/118169200/204536642-d9ba513a-2c13-40a3-b82a-f1c75f7079ad.jpg" alt="alt text" width="30%" height="30%">
 
 ###### Store Details
