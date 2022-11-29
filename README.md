@@ -34,3 +34,29 @@ Password: test12345
 ###### Coupon Details
 <img src="https://user-images.githubusercontent.com/118169200/204532968-ba95485a-ce6b-41c8-83e2-7ae007c099ea.jpg" alt="alt text" width="30%" height="30%">
 
+###### Online Shop - Online Bestellen
+<img src="https://user-images.githubusercontent.com/118169200/204534052-3b7dab7f-0d5d-4a90-8958-ac6c6f56f992.jpg" alt="alt text" width="30%" height="30%">
+
+###### MySchnitzel Online Shopping - Menu
+<img src="https://user-images.githubusercontent.com/118169200/204534537-80156971-c9c9-4c7d-be63-5085d313e0c7.jpg" alt="alt text" width="30%" height="30%">
+
+###### Special Coupons - Punkte einlossen 
+<img src="https://user-images.githubusercontent.com/118169200/204535040-bc45ce07-a9a8-4bdc-8864-ea0f8f36765f.jpg" alt="alt text" width="30%" height="30%">
+
+###### Products - Produkte
+<img src="https://user-images.githubusercontent.com/118169200/204536385-28d86310-4a0b-4e94-b677-18d025c0f59e.jpg" alt="alt text" width="30%" height="30%">
+
+###### Menu - Speisekarte
+<img src="https://user-images.githubusercontent.com/118169200/204535152-5f7705c6-5ab5-4e24-8cb2-178f9a0b4c31.jpg" alt="alt text" width="30%" height="30%">
+
+###### List of Stores
+<img src="https://user-images.githubusercontent.com/118169200/204536642-d9ba513a-2c13-40a3-b82a-f1c75f7079ad.jpg" alt="alt text" width="30%" height="30%">
+
+###### Store Details
+<img src="https://user-images.githubusercontent.com/118169200/204536709-8ac1b23d-40d5-4850-9520-12658f4ac5ca.jpg" alt="alt text" width="30%" height="30%">
+
+###### Settings Page
+<img src="https://user-images.githubusercontent.com/118169200/204536755-2dd28c0e-84ef-4b73-8242-024ea4ae502d.jpg" alt="alt text" width="30%" height="30%">
+
+###### Password Reset
+<img src="https://user-images.githubusercontent.com/118169200/204536784-2e5bce95-7bb8-4306-b29f-39cd3f606aeb.jpg" alt="alt text" width="30%" height="30%">
